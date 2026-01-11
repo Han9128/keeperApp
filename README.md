@@ -28,4 +28,4 @@ Built using **React** and **Material UI**.
 
 ## Live Demo
 
-For a live demonstration of the app with the latest security enhancements, you can visit [https://z9y5ng.csb.app/](https://z9y5ng.csb.app/).
+For a live demonstration of the app, you can visit [https://z9y5ng.csb.app/](https://z9y5ng.csb.app/).
